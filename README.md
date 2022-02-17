@@ -38,7 +38,7 @@ See below for some examples of how this program should behave. Please ensure you
 ## Sample Program Execution 1
 
 ```
-** Welcome to the ProgrammingExpert Burger Bar!
+Welcome to the ProgrammingExpert Burger Bar!
 Loading catalogue...
 --------- Burgers -----------
 
@@ -169,5 +169,5 @@ Total: $22.31
 Would you like to purchase this order for $22.31 (yes/no)? yes
 Thank you for your order!
 Would you like to make another order (yes/no)? no
-Goodbye! **
+Goodbye! 
 ```
